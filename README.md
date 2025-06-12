@@ -1,2 +1,2 @@
-# Final-Project-Photo-Gallery
-Final Project: Photo Gallery for Coursera assignment
+# Photo-Gallery
+Coursera assignment
